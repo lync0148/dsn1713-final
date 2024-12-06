@@ -1,0 +1,57 @@
+@import url('https://fonts.googleapis.com/css2?family=Alice&display=swap');
+
+
+.alice-regular {
+  font-family: "Alice", serif;
+  font-weight: 400;
+  font-style: normal;
+}
+
+
+
+
+
+#hero {
+    width: 100vw;
+    height: auto;
+    
+}
+
+.btn {
+    color: #ffffff;
+    background-color: #893F51;
+}
+
+body {
+    font-family: 'Alice', serif;
+  }
+
+  .locations-brief {
+    background-color: #e6e7e8;
+  }
+
+body {
+  font-family: "Alice", serif;
+}
+
+h1 {
+  font-size: 4rem !important;
+  text-decoration: underline;
+  text-decoration-color: #893F51;
+}
+
+h2 {
+  font-size: 2.5rem !important;
+}
+
+h3 {
+  font-size: 2rem !important;
+}
+
+.btn {
+  font-size: 1.5rem !important;
+}
+
+body {
+  font-size: 1.06rem;
+}
